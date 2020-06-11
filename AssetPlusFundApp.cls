@@ -21,7 +21,7 @@ Do not call Function in Constructor.
 	
 	this.uId = '';
 		
-	this.screenMode = AppManager.SCREEN_ORIENTATION_PORTRAIT;
+	this.screenMode = AppManager.SCREEN_ORIENTATION_LANDSCAPE;
 	
 	this.timeInfo = null;
 	
