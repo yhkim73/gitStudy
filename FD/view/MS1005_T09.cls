@@ -31,7 +31,7 @@ Do not call Function in Constructor.
 	{
 		AppManager.endOltp();
 		//완료 안내 SMS 발송
-		this.sendSACAT730();
+		this.sendSACAT780();
 	}
 	this.setTexts();
 };
